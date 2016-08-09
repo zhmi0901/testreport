@@ -1,2 +1,3 @@
-MiniSmoke Test Result of 4.0.0.0
+MiniSmoke Test
+4.0.0.0
 2016-03-01 17:16
